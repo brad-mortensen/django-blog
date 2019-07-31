@@ -17,8 +17,12 @@ ul {
   margin: 0;
 }
 
+.nav_logo {
+  width: 10%;
+}
+
 .bg-steel {
-  background-color: #5f788a;
+  background-color: #2956cb;
 }
 
 .site-header .navbar-nav .nav-link {
